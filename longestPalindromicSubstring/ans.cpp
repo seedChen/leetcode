@@ -62,3 +62,4 @@ int main(int argc, char *argv[])
     cout << s.longestPalindrome(exam) << endl;;
     return 0;
 }
+
